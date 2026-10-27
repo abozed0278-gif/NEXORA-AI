@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI",
+  "description": "Futuristic AI workspace transforming images and natural-language ideas into interactive tools and guided task workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
